@@ -1,3 +1,6 @@
+# This function creates a tower of * where each row adds two more stars and the corresponding row above adds
+# two more spaces (one on each side)  It will be held in a list.
+
 def tower_builder(n_floors):
     # Counter while loop
     count = 0
